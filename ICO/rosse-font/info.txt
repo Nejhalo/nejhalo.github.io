@@ -1,2 +1,2 @@
-license: Demo
+﻿license: Demo
 link: https://www.fontspace.com/rosse-font-f28899
